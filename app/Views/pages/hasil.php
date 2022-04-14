@@ -9,8 +9,7 @@
    <meta content="" name="description">
    <meta content="" name="keywords">
  
-   <!-- Favicons -->
-   <link href="/assets/img/logo.png" rel="icon">
+
  
    <!-- Google Fonts -->
    <link href="https://fonts.gstatic.com" rel="preconnect">
@@ -56,9 +55,8 @@
                        <!-- <h1>Muhammad Dwiki Reza</h1>
                        <h1>152018122</h1> -->
                        <h4>Regresi Linear</h4>
-                       <h1>DATA DIAMBIL DARI JURNAL : PENERAPAN METODE REGRESI LINIERSEDERHANAUNTUK PREDIKSI PERSEDIAAN OBAT JENIS TABLET</h1>
+                       <h1>DATA DIAMBIL DARI JURNAL : PENERAPAN METODE REGRESI LINIER SEDERHANA UNTUK PREDIKSI PERSEDIAAN OBAT JENIS TABLET</h1>
                    </div>
- 
                </div>
  
            </div>
@@ -226,6 +224,8 @@
  };
   
  // End Defining data
+ // Menggunakan chart
+ //Chart Js
  var myChart = new Chart(ctx, {
     type: 'scatter',
     data: {

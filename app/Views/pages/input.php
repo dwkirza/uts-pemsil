@@ -9,8 +9,6 @@
    <meta content="" name="description">
    <meta content="" name="keywords">
  
-   <!-- Favicons -->
-   <link href="/assets/img/logo.png" rel="icon">
  
    <!-- Google Fonts -->
    <link href="https://fonts.gstatic.com" rel="preconnect">
@@ -52,7 +50,7 @@
                        <!-- <h1>Muhammad Dwiki Reza</h1>
                        <h1>152018122</h1> -->
                        <h4>Regresi Linear</h4>
-                       <h1>DATA DIAMBIL DARI JURNAL : PENERAPAN METODE REGRESI LINIERSEDERHANAUNTUK PREDIKSI PERSEDIAAN OBAT JENIS TABLET</>
+                       <h1>DATA DIAMBIL DARI JURNAL : PENERAPAN METODE REGRESI LINIER SEDERHANA UNTUK PREDIKSI PERSEDIAAN OBAT JENIS TABLET</h1>
                    </div>
  
                </div>
@@ -72,12 +70,12 @@
  
  
                        <div class="d-flex justify-content-between align-items-center container__create">
-                           <h3 for="x">X</h3>
+                           <h3 for="x">X : (Periode Minggu)</h3>
                            <input class="form-select form-control" name="x" type="input" id="x">
  
                        </div>
                        <div class="d-flex justify-content-between align-items-center container__create">
-                           <h3 for="y">Y</h3>
+                           <h3 for="y">Y : (Tablet)</h3>
                            <input class="form-control " name="y" type="input" id="y">
  
                        </div>
@@ -94,7 +92,6 @@
                <div class="custom__card__large">
                    <div class="custom__header__card__large">
  
-                       <button type="button" class="btn btn-primary">Input Excel</button>
                    </div>
  
                    <div class="table__wrapper">
